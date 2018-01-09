@@ -51,9 +51,9 @@ dependencies {
 WIKI
 -----------------
 For complete information, features and usage, refer to the [WIKI](https://github.com/ameriprosolutions/ameripro-Logging/wiki):
-- [Logging](https://github.com/android10/frodo/wiki/Logging)
-- [Release Notes](https://github.com/android10/frodo/wiki/Release-Notes)
-- [Development](https://github.com/android10/frodo/wiki/Development)
+- [Consume Library](https://github.com/ameriprosolutions/ameripro-Logging/wiki/Consuming-Library)
+- [Logging](https://github.com/ameriprosolutions/ameripro-Logging/wiki/Logging)
+- [Release Notes](https://github.com/ameriprosolutions/ameripro-Logging/wiki/Release-Notes)
 
 <br>
 

@@ -1,14 +1,22 @@
+
+/**
+ * Created by Ameripro-solutions on 1/4/2018.
+ */
+
 package com.ameripro.loglibrary;
 
 /**
- * Created by Rajshekhar on 1/4/2018.
+ * An exception that is thrown only if a suitable <code>LogFactory</code>
+ * or <code>Log</code> instance cannot be created by the corresponding
+ * factory methods.
  */
 
-public class LogLibException extends RuntimeException{
+public class LogLibException extends RuntimeException {
 
     /**
      * Construct a new exception with <code>null</code> as its detail message.
      */
+
     public LogLibException() {
         super();
     }
@@ -36,7 +44,7 @@ public class LogLibException extends RuntimeException{
      * Construct a new exception with the specified detail message and cause.
      *
      * @param message The detail message
-     * @param cause The underlying cause
+     * @param cause   The underlying cause
      */
     public LogLibException(String message, Throwable cause) {
         super(message + " (Caused by " + cause + ")");

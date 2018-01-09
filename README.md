@@ -43,7 +43,7 @@ To consume ameripro-Logging, a gradle plugin must be applied in your ```build.gr
 ```
 dependencies {
     ...
-    compile 'com.github.ameriprosolutions:ameripro-Logging:a1.0'
+    compile 'com.github.ameriprosolutions:ameripro-Logging:v1.0'
 }
 ```
 <br>
